@@ -1,0 +1,13 @@
+{
+  "name": "Module7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "dotnet run -p .\\src\\TrucaPato.Web\\TrucaPato.Web.csproj",
+    "migration": "cd .\\src\\TrucaPato.Dado\\ && dotnet ef --startup-project ..\\TrucaPato.web\\TrucaPato.web.csproj migrations add",
+    "migration-script": "cd .\\src\\TrucaPato.Dado\\ && dotnet ef --startup-project ..\\TrucaPato.web\\TrucaPato.web.csproj migrations script",
+    "remove-migration": "cd .\\src\\TrucaPato.Dado\\ && dotnet ef --startup-project ..\\TrucaPato.web\\TrucaPato.web.csproj migrations remove",
+    "database-update": "cd .\\src\\TrucaPato.Dado\\ && dotnet ef --startup-project ..\\TrucaPato.web\\TrucaPato.web.csproj database update"
+  }
+}

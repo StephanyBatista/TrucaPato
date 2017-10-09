@@ -1,0 +1,69 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{67BFB326-D3CB-4834-9698-B32C852D9BE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrucaPato.Dado", "src\TrucaPato.Dado\TrucaPato.Dado.csproj", "{DDF2D398-4B85-45A3-A946-432DBB104384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrucaPato.Di", "src\TrucaPato.Di\TrucaPato.Di.csproj", "{A0810B95-227D-40E5-A50A-453E39A32653}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrucaPato.Web", "src\TrucaPato.Web\TrucaPato.Web.csproj", "{F71C6688-9420-46CD-9A27-2433B144E110}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDF2D398-4B85-45A3-A946-432DBB104384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF2D398-4B85-45A3-A946-432DBB104384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF2D398-4B85-45A3-A946-432DBB104384}.Debug|x64.ActiveCfg = Debug|x64
+		{DDF2D398-4B85-45A3-A946-432DBB104384}.Debug|x64.Build.0 = Debug|x64
+		{DDF2D398-4B85-45A3-A946-432DBB104384}.Debug|x86.ActiveCfg = Debug|x86
+		{DDF2D398-4B85-45A3-A946-432DBB104384}.Debug|x86.Build.0 = Debug|x86
+		{DDF2D398-4B85-45A3-A946-432DBB104384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF2D398-4B85-45A3-A946-432DBB104384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDF2D398-4B85-45A3-A946-432DBB104384}.Release|x64.ActiveCfg = Release|x64
+		{DDF2D398-4B85-45A3-A946-432DBB104384}.Release|x64.Build.0 = Release|x64
+		{DDF2D398-4B85-45A3-A946-432DBB104384}.Release|x86.ActiveCfg = Release|x86
+		{DDF2D398-4B85-45A3-A946-432DBB104384}.Release|x86.Build.0 = Release|x86
+		{A0810B95-227D-40E5-A50A-453E39A32653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0810B95-227D-40E5-A50A-453E39A32653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0810B95-227D-40E5-A50A-453E39A32653}.Debug|x64.ActiveCfg = Debug|x64
+		{A0810B95-227D-40E5-A50A-453E39A32653}.Debug|x64.Build.0 = Debug|x64
+		{A0810B95-227D-40E5-A50A-453E39A32653}.Debug|x86.ActiveCfg = Debug|x86
+		{A0810B95-227D-40E5-A50A-453E39A32653}.Debug|x86.Build.0 = Debug|x86
+		{A0810B95-227D-40E5-A50A-453E39A32653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0810B95-227D-40E5-A50A-453E39A32653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0810B95-227D-40E5-A50A-453E39A32653}.Release|x64.ActiveCfg = Release|x64
+		{A0810B95-227D-40E5-A50A-453E39A32653}.Release|x64.Build.0 = Release|x64
+		{A0810B95-227D-40E5-A50A-453E39A32653}.Release|x86.ActiveCfg = Release|x86
+		{A0810B95-227D-40E5-A50A-453E39A32653}.Release|x86.Build.0 = Release|x86
+		{F71C6688-9420-46CD-9A27-2433B144E110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F71C6688-9420-46CD-9A27-2433B144E110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F71C6688-9420-46CD-9A27-2433B144E110}.Debug|x64.ActiveCfg = Debug|x64
+		{F71C6688-9420-46CD-9A27-2433B144E110}.Debug|x64.Build.0 = Debug|x64
+		{F71C6688-9420-46CD-9A27-2433B144E110}.Debug|x86.ActiveCfg = Debug|x86
+		{F71C6688-9420-46CD-9A27-2433B144E110}.Debug|x86.Build.0 = Debug|x86
+		{F71C6688-9420-46CD-9A27-2433B144E110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F71C6688-9420-46CD-9A27-2433B144E110}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F71C6688-9420-46CD-9A27-2433B144E110}.Release|x64.ActiveCfg = Release|x64
+		{F71C6688-9420-46CD-9A27-2433B144E110}.Release|x64.Build.0 = Release|x64
+		{F71C6688-9420-46CD-9A27-2433B144E110}.Release|x86.ActiveCfg = Release|x86
+		{F71C6688-9420-46CD-9A27-2433B144E110}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DDF2D398-4B85-45A3-A946-432DBB104384} = {67BFB326-D3CB-4834-9698-B32C852D9BE9}
+		{A0810B95-227D-40E5-A50A-453E39A32653} = {67BFB326-D3CB-4834-9698-B32C852D9BE9}
+		{F71C6688-9420-46CD-9A27-2433B144E110} = {67BFB326-D3CB-4834-9698-B32C852D9BE9}
+	EndGlobalSection
+EndGlobal

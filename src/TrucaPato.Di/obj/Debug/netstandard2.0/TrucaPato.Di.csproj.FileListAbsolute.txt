@@ -1,0 +1,10 @@
+C:\source\truca pato\src\TrucaPato.Di\bin\Debug\netstandard2.0\TrucaPato.Di.deps.json
+C:\source\truca pato\src\TrucaPato.Di\bin\Debug\netstandard2.0\TrucaPato.Di.dll
+C:\source\truca pato\src\TrucaPato.Di\bin\Debug\netstandard2.0\TrucaPato.Di.pdb
+C:\source\truca pato\src\TrucaPato.Di\bin\Debug\netstandard2.0\TrucaPato.Dado.dll
+C:\source\truca pato\src\TrucaPato.Di\bin\Debug\netstandard2.0\TrucaPato.Dado.pdb
+C:\source\truca pato\src\TrucaPato.Di\obj\Debug\netstandard2.0\TrucaPato.Di.csproj.CoreCompileInputs.cache
+C:\source\truca pato\src\TrucaPato.Di\obj\Debug\netstandard2.0\TrucaPato.Di.AssemblyInfoInputs.cache
+C:\source\truca pato\src\TrucaPato.Di\obj\Debug\netstandard2.0\TrucaPato.Di.AssemblyInfo.cs
+C:\source\truca pato\src\TrucaPato.Di\obj\Debug\netstandard2.0\TrucaPato.Di.dll
+C:\source\truca pato\src\TrucaPato.Di\obj\Debug\netstandard2.0\TrucaPato.Di.pdb
