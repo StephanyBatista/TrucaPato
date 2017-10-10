@@ -1,0 +1,8 @@
+C:\source\truca pato\src\TrucaPato.Dominio\bin\Debug\netstandard2.0\TrucaPato.Dominio.deps.json
+C:\source\truca pato\src\TrucaPato.Dominio\bin\Debug\netstandard2.0\TrucaPato.Dominio.dll
+C:\source\truca pato\src\TrucaPato.Dominio\bin\Debug\netstandard2.0\TrucaPato.Dominio.pdb
+C:\source\truca pato\src\TrucaPato.Dominio\obj\Debug\netstandard2.0\TrucaPato.Dominio.csproj.CoreCompileInputs.cache
+C:\source\truca pato\src\TrucaPato.Dominio\obj\Debug\netstandard2.0\TrucaPato.Dominio.AssemblyInfoInputs.cache
+C:\source\truca pato\src\TrucaPato.Dominio\obj\Debug\netstandard2.0\TrucaPato.Dominio.AssemblyInfo.cs
+C:\source\truca pato\src\TrucaPato.Dominio\obj\Debug\netstandard2.0\TrucaPato.Dominio.dll
+C:\source\truca pato\src\TrucaPato.Dominio\obj\Debug\netstandard2.0\TrucaPato.Dominio.pdb

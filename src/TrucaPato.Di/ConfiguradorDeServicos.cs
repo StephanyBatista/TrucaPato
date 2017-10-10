@@ -4,6 +4,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using TrucaPato.Dado.Contexto;
+using TrucaPato.Dado.Repositorio;
+using TrucaPato.Dominio.Jogo.Salas;
 
 namespace TrucaPato.Di
 {
@@ -16,7 +18,10 @@ namespace TrucaPato.Di
 
             services.AddIdentity<IdentityUser, IdentityRole>()
                 .AddEntityFrameworkStores<ContextoDaAplicacao>()
-                .AddDefaultTokenProviders();       
+                .AddDefaultTokenProviders();
+
+            services.AddScoped(typeof(ISalaRepositorio), typeof(SalaRepositorio));
+            services.AddScoped(typeof(ICriadorDeSala), typeof(CriadorDeSala));
         }
     }
 }

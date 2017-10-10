@@ -9,5 +9,8 @@
     "migration-script": "cd .\\src\\TrucaPato.Dado\\ && dotnet ef --startup-project ..\\TrucaPato.web\\TrucaPato.web.csproj migrations script",
     "remove-migration": "cd .\\src\\TrucaPato.Dado\\ && dotnet ef --startup-project ..\\TrucaPato.web\\TrucaPato.web.csproj migrations remove",
     "database-update": "cd .\\src\\TrucaPato.Dado\\ && dotnet ef --startup-project ..\\TrucaPato.web\\TrucaPato.web.csproj database update"
+  },
+  "dependencies": {
+    "@aspnet/signalr-client": "^1.0.0-alpha2-final"
   }
 }

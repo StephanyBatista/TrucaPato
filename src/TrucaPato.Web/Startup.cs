@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using TrucaPato.Web.Models;
 using TrucaPato.Web.Services;
 using TrucaPato.Di;
+using TrucaPato.Web.Hubs;
 
 namespace TrucaPato.Web
 {
@@ -32,6 +33,8 @@ namespace TrucaPato.Web
             services.AddTransient<IEmailSender, EmailSender>();
 
             services.AddMvc();
+
+            services.AddSignalR();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -56,6 +59,11 @@ namespace TrucaPato.Web
                 routes.MapRoute(
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
+            });
+
+            app.UseSignalR(routes =>
+            {
+                routes.MapHub<TrucaPatoHub>("trucaPatoHub");
             });
         }
     }

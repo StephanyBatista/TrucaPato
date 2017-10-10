@@ -1084,6 +1084,16 @@
         "compile": {
           "ref/netstandard1.3/System.Threading.Tasks.dll": {}
         }
+      },
+      "TrucaPato.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/TrucaPato.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TrucaPato.Dominio.dll": {}
+        }
       }
     }
   },
@@ -3679,6 +3689,11 @@
         "system.threading.tasks.4.3.0.nupkg.sha512",
         "system.threading.tasks.nuspec"
       ]
+    },
+    "TrucaPato.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../TrucaPato.Dominio/TrucaPato.Dominio.csproj",
+      "msbuildProject": "../TrucaPato.Dominio/TrucaPato.Dominio.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3688,7 +3703,8 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 2.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.0.0",
-      "NETStandard.Library >= 2.0.0"
+      "NETStandard.Library >= 2.0.0",
+      "TrucaPato.Dominio >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3720,7 +3736,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\source\\truca pato\\src\\TrucaPato.Dominio\\TrucaPato.Dominio.csproj": {
+              "projectPath": "C:\\source\\truca pato\\src\\TrucaPato.Dominio\\TrucaPato.Dominio.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

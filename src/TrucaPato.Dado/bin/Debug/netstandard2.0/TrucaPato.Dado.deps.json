@@ -14,7 +14,8 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "2.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "2.0.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.0.0",
-          "NETStandard.Library": "2.0.0"
+          "NETStandard.Library": "2.0.0",
+          "TrucaPato.Dominio": "1.0.0"
         },
         "runtime": {
           "TrucaPato.Dado.dll": {}
@@ -710,6 +711,11 @@
           "Microsoft.NETCore.Targets": "1.1.0",
           "System.Runtime": "4.3.0"
         }
+      },
+      "TrucaPato.Dominio/1.0.0": {
+        "runtime": {
+          "TrucaPato.Dominio.dll": {}
+        }
       }
     }
   },
@@ -1299,6 +1305,11 @@
       "sha512": "sha512-0i5OjvVW594FjhMyykKgHE7j5mjB9AADX+MeoM7ul3JTfqyUA52LqJEIF1xzlosNHgdJOLE983unp1YkDJ9pBA==",
       "path": "system.threading.tasks/4.3.0",
       "hashPath": "system.threading.tasks.4.3.0.nupkg.sha512"
+    },
+    "TrucaPato.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

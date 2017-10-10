@@ -14,3 +14,5 @@ C:\source\truca pato\src\TrucaPato.web\bin\Debug\netcoreapp2.0\TrucaPato.Dado.dl
 C:\source\truca pato\src\TrucaPato.web\bin\Debug\netcoreapp2.0\TrucaPato.Di.dll
 C:\source\truca pato\src\TrucaPato.web\bin\Debug\netcoreapp2.0\TrucaPato.Di.pdb
 C:\source\truca pato\src\TrucaPato.web\bin\Debug\netcoreapp2.0\TrucaPato.Dado.pdb
+C:\source\truca pato\src\TrucaPato.Web\bin\Debug\netcoreapp2.0\TrucaPato.Dominio.dll
+C:\source\truca pato\src\TrucaPato.Web\bin\Debug\netcoreapp2.0\TrucaPato.Dominio.pdb

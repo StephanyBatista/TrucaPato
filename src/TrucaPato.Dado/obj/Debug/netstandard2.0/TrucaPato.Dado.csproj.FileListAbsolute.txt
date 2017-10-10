@@ -6,3 +6,5 @@ C:\source\truca pato\src\TrucaPato.Dado\obj\Debug\netstandard2.0\TrucaPato.Dado.
 C:\source\truca pato\src\TrucaPato.Dado\obj\Debug\netstandard2.0\TrucaPato.Dado.AssemblyInfo.cs
 C:\source\truca pato\src\TrucaPato.Dado\obj\Debug\netstandard2.0\TrucaPato.Dado.dll
 C:\source\truca pato\src\TrucaPato.Dado\obj\Debug\netstandard2.0\TrucaPato.Dado.pdb
+C:\source\truca pato\src\TrucaPato.Dado\bin\Debug\netstandard2.0\TrucaPato.Dominio.dll
+C:\source\truca pato\src\TrucaPato.Dado\bin\Debug\netstandard2.0\TrucaPato.Dominio.pdb

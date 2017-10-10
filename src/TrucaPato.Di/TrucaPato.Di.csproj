@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TrucaPato.Dado\TrucaPato.Dado.csproj" />
+    <ProjectReference Include="..\TrucaPato.Dominio\TrucaPato.Dominio.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

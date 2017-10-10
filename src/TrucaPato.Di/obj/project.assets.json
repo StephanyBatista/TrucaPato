@@ -1093,13 +1093,24 @@
           "Microsoft.EntityFrameworkCore": "2.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "2.0.0",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.0.0"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.0.0",
+          "TrucaPato.Dominio": "1.0.0"
         },
         "compile": {
           "bin/placeholder/TrucaPato.Dado.dll": {}
         },
         "runtime": {
           "bin/placeholder/TrucaPato.Dado.dll": {}
+        }
+      },
+      "TrucaPato.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/TrucaPato.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TrucaPato.Dominio.dll": {}
         }
       }
     }
@@ -3701,6 +3712,11 @@
       "type": "project",
       "path": "../TrucaPato.Dado/TrucaPato.Dado.csproj",
       "msbuildProject": "../TrucaPato.Dado/TrucaPato.Dado.csproj"
+    },
+    "TrucaPato.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../TrucaPato.Dominio/TrucaPato.Dominio.csproj",
+      "msbuildProject": "../TrucaPato.Dominio/TrucaPato.Dominio.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3712,7 +3728,8 @@
       "Microsoft.EntityFrameworkCore.Tools >= 2.0.0",
       "Microsoft.Extensions.DependencyInjection >= 2.0.0",
       "NETStandard.Library >= 2.0.0",
-      "TrucaPato.Dado >= 1.0.0"
+      "TrucaPato.Dado >= 1.0.0",
+      "TrucaPato.Dominio >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3747,6 +3764,9 @@
           "projectReferences": {
             "C:\\source\\truca pato\\src\\TrucaPato.Dado\\TrucaPato.Dado.csproj": {
               "projectPath": "C:\\source\\truca pato\\src\\TrucaPato.Dado\\TrucaPato.Dado.csproj"
+            },
+            "C:\\source\\truca pato\\src\\TrucaPato.Dominio\\TrucaPato.Dominio.csproj": {
+              "projectPath": "C:\\source\\truca pato\\src\\TrucaPato.Dominio\\TrucaPato.Dominio.csproj"
             }
           }
         }
