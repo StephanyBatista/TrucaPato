@@ -1,0 +1,57 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/stephany/Documentos/Source/TrucaPato/test/TrucaPato.DominioTeste/TrucaPato.DominioTeste.csproj",
+    "projectName": "TrucaPato.DominioTeste",
+    "projectPath": "/home/stephany/Documentos/Source/TrucaPato/test/TrucaPato.DominioTeste/TrucaPato.DominioTeste.csproj",
+    "outputPath": "/home/stephany/Documentos/Source/TrucaPato/test/TrucaPato.DominioTeste/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/home/stephany/Documentos/Source/TrucaPato/src/TrucaPato.Dominio/TrucaPato.Dominio.csproj": {
+            "projectPath": "/home/stephany/Documentos/Source/TrucaPato/src/TrucaPato.Dominio/TrucaPato.Dominio.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "15.3.0-preview-20170628-02"
+        },
+        "Moq": {
+          "target": "Package",
+          "version": "4.7.137"
+        },
+        "MSTest.TestAdapter": {
+          "target": "Package",
+          "version": "1.1.18"
+        },
+        "MSTest.TestFramework": {
+          "target": "Package",
+          "version": "1.1.18"
+        },
+        "Nosbor.FluentBuilder": {
+          "target": "Package",
+          "version": "1.1.0"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

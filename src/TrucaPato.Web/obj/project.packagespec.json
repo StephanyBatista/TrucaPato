@@ -1,0 +1,58 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/stephany/Documentos/Source/TrucaPato/src/TrucaPato.Web/TrucaPato.Web.csproj",
+    "projectName": "TrucaPato.Web",
+    "projectPath": "/home/stephany/Documentos/Source/TrucaPato/src/TrucaPato.Web/TrucaPato.Web.csproj",
+    "outputPath": "/home/stephany/Documentos/Source/TrucaPato/src/TrucaPato.Web/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/home/stephany/Documentos/Source/TrucaPato/src/TrucaPato.Di/TrucaPato.Di.csproj": {
+            "projectPath": "/home/stephany/Documentos/Source/TrucaPato/src/TrucaPato.Di/TrucaPato.Di.csproj"
+          },
+          "/home/stephany/Documentos/Source/TrucaPato/src/TrucaPato.Dominio/TrucaPato.Dominio.csproj": {
+            "projectPath": "/home/stephany/Documentos/Source/TrucaPato/src/TrucaPato.Dominio/TrucaPato.Dominio.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.EntityFrameworkCore.Tools": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.AspNetCore.SignalR": {
+          "target": "Package",
+          "version": "1.0.0-alpha1-final"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

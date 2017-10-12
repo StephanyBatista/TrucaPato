@@ -1,0 +1,58 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/stephany/Documentos/Source/TrucaPato/src/TrucaPato.Dado/TrucaPato.Dado.csproj",
+    "projectName": "TrucaPato.Dado",
+    "projectPath": "/home/stephany/Documentos/Source/TrucaPato/src/TrucaPato.Dado/TrucaPato.Dado.csproj",
+    "outputPath": "/home/stephany/Documentos/Source/TrucaPato/src/TrucaPato.Dado/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netstandard2.0"
+    ],
+    "frameworks": {
+      "netstandard2.0": {
+        "projectReferences": {
+          "/home/stephany/Documentos/Source/TrucaPato/src/TrucaPato.Dominio/TrucaPato.Dominio.csproj": {
+            "projectPath": "/home/stephany/Documentos/Source/TrucaPato/src/TrucaPato.Dominio/TrucaPato.Dominio.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netstandard2.0": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.EntityFrameworkCore.SqlServer": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.EntityFrameworkCore.Tools": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "2.0.0"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

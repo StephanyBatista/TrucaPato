@@ -4,7 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "dotnet build && cd ./src/TrucaPato.Web/ && dotnet run",
+    "migration": "cd ./src/TrucaPato.Dado/ && dotnet ef --startup-project ../TrucaPato.Web/TrucaPato.Web.csproj migrations add",
+    "migration-script": "cd ./src/TrucaPato.Dado/ && dotnet ef --startup-project ../TrucaPato.Web/TrucaPato.Web.csproj migrations script",
+    "remove-migration": "cd ./src/TrucaPato.Dado/ && dotnet ef --startup-project ../TrucaPato.Web/TrucaPato.Web.csproj migrations remove",
+    "database-update": "cd ./src/TrucaPato.Dado/ && dotnet ef --startup-project ../TrucaPato.Web/TrucaPato.Web.csproj database update",
+    "database-drop": "cd ./src/TrucaPato.Dado/ && dotnet ef --startup-project ../TrucaPato.Web/TrucaPato.Web.csproj database drop"
   },
   "author": "",
   "license": "ISC",
