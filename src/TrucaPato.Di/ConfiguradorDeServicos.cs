@@ -5,7 +5,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using TrucaPato.Dado.Contexto;
 using TrucaPato.Dado.Repositorio;
-using TrucaPato.Dominio.Jogo.Salas;
+using TrucaPato.Dominio.Jogo;
 
 namespace TrucaPato.Di
 {
@@ -20,8 +20,8 @@ namespace TrucaPato.Di
                 .AddEntityFrameworkStores<ContextoDaAplicacao>()
                 .AddDefaultTokenProviders();
 
-            services.AddScoped(typeof(ISalaRepositorio), typeof(SalaRepositorio));
-            services.AddScoped(typeof(ICriadorDeSala), typeof(CriadorDeSala));
+            services.AddScoped(typeof(IPartidaRepositorio), typeof(PartidaRepositorio));
+            services.AddScoped(typeof(IGerenciadorDePartida), typeof(GerenciadorDePartida));
         }
     }
 }

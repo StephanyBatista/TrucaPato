@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
     <IsPackable>false</IsPackable>
@@ -12,5 +12,14 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\src\TrucaPato.Dominio\TrucaPato.Dominio.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Jogo\Salas\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Remove="Jogo\Salas\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Jogo\Salas\**" />
   </ItemGroup>
 </Project>

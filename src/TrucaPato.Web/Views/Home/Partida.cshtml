@@ -1,0 +1,21 @@
+﻿@model string
+@{
+    ViewData["Title"] = "Partida";
+}
+<h2>@ViewData["Title"]</h2>
+
+<ul id="lista-de-usuarios">
+    
+</ul>
+
+<div id="minhas-cartas"></div>
+
+
+@section Scripts{
+    
+    <script src="/lib/signalr/signalr-client-1.0.0-alpha2-final.min.js"></script>
+    <script src="/js/partida.js"></script>
+    <script type="text/javascript">
+        configurarUsuario("@Model");
+    </script>
+}

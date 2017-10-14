@@ -19,7 +19,7 @@
             <e p="ContextoDaAplicacaoModelSnapshot.cs" t="Include" />
           </e>
           <e p="Repositorio" t="Include">
-            <e p="SalaRepositorio.cs" t="Include" />
+            <e p="PartidaRepositorio.cs" t="Include" />
           </e>
           <e p="TrucaPato.Dado.csproj" t="IncludeRecursive" />
           <e p="bin" t="ExcludeRecursive" />
@@ -45,11 +45,20 @@
         </e>
         <e p="TrucaPato.Dominio" t="IncludeRecursive">
           <e p="Jogo" t="Include">
-            <e p="Salas" t="Include">
-              <e p="CriadorDeSala.cs" t="Include" />
-              <e p="ISalaRepositorio.cs" t="Include" />
-              <e p="Sala.cs" t="Include" />
+            <e p="Cartas" t="Include">
+              <e p="Carta.cs" t="Include" />
+              <e p="Manilha.cs" t="Include" />
+              <e p="TodasAsCartas.cs" t="Include" />
             </e>
+            <e p="GerenciadorDePartida.cs" t="Include" />
+            <e p="IPartidaRepositorio.cs" t="Include" />
+            <e p="Jogadores" t="Include">
+              <e p="CartasDoJogador.cs" t="Include" />
+              <e p="Equipe.cs" t="Include" />
+              <e p="Jogador.cs" t="Include" />
+            </e>
+            <e p="Partida.cs" t="Include" />
+            <e p="Rodada.cs" t="Include" />
           </e>
           <e p="TrucaPato.Dominio.csproj" t="IncludeRecursive" />
           <e p="_Base" t="Include">
@@ -69,7 +78,7 @@
             <e p="AccountController.cs" t="Include" />
             <e p="HomeController.cs" t="Include" />
             <e p="ManageController.cs" t="Include" />
-            <e p="SalaController.cs" t="Include" />
+            <e p="PartidaController.cs" t="Include" />
           </e>
           <e p="Extensions" t="Include">
             <e p="EmailSenderExtensions.cs" t="Include" />
@@ -89,6 +98,7 @@
               <e p="ResetPasswordViewModel.cs" t="Include" />
             </e>
             <e p="ErrorViewModel.cs" t="Include" />
+            <e p="GerenteDeConexaoDeHub.cs" t="Include" />
             <e p="ManageViewModels" t="Include">
               <e p="ChangePasswordViewModel.cs" t="Include" />
               <e p="EnableAuthenticatorViewModel.cs" t="Include" />
@@ -124,9 +134,9 @@
               <e p="SignedOut.cshtml" t="Include" />
             </e>
             <e p="Home" t="Include">
-              <e p="About.cshtml" t="Include" />
               <e p="Contact.cshtml" t="Include" />
               <e p="Index.cshtml" t="Include" />
+              <e p="Partida.cshtml" t="Include" />
             </e>
             <e p="Manage" t="Include">
               <e p="ChangePassword.cshtml" t="Include" />
@@ -172,13 +182,68 @@
             </e>
             <e p="favicon.ico" t="Include" />
             <e p="images" t="Include">
+              <e p="Cartas" t="Include">
+                <e p="10 - Copas.png" t="Include" />
+                <e p="10 - Espadilha.png" t="Include" />
+                <e p="10 - Picafumo.png" t="Include" />
+                <e p="10 - Zapi.png" t="Include" />
+                <e p="2 - Copas.png" t="Include" />
+                <e p="2 - Espadilha.png" t="Include" />
+                <e p="2 - Picafumo.png" t="Include" />
+                <e p="2 - Zapi.png" t="Include" />
+                <e p="3 - Copas.png" t="Include" />
+                <e p="3 - Espadilha.png" t="Include" />
+                <e p="3 - Picafumo.png" t="Include" />
+                <e p="3 - Zapi.png" t="Include" />
+                <e p="4 - Copas.png" t="Include" />
+                <e p="4 - Espadilha.png" t="Include" />
+                <e p="4 - Picafumo.png" t="Include" />
+                <e p="4 - Zapi.png" t="Include" />
+                <e p="5 - Copas.png" t="Include" />
+                <e p="5 - Espadilha.png" t="Include" />
+                <e p="5 - Picafumo.png" t="Include" />
+                <e p="5 - Zapi.png" t="Include" />
+                <e p="6 - Copas.png" t="Include" />
+                <e p="6 - Espadilha.png" t="Include" />
+                <e p="6 - Picafumo.png" t="Include" />
+                <e p="6 - Zapi.png" t="Include" />
+                <e p="7 - Copas.png" t="Include" />
+                <e p="7 - Espadilha.png" t="Include" />
+                <e p="7 - Picafumo.png" t="Include" />
+                <e p="7 - Zapi.png" t="Include" />
+                <e p="8 - Copas.png" t="Include" />
+                <e p="8 - Espadilha.png" t="Include" />
+                <e p="8 - Picafumo.png" t="Include" />
+                <e p="8 - Zapi.png" t="Include" />
+                <e p="9 - Copas.png" t="Include" />
+                <e p="9 - Espadilha.png" t="Include" />
+                <e p="9 - Picafumo.png" t="Include" />
+                <e p="9 - Zapi.png" t="Include" />
+                <e p="A - Copas.png" t="Include" />
+                <e p="A - Espadilha.png" t="Include" />
+                <e p="A - Picafumo.png" t="Include" />
+                <e p="A - Zapi.png" t="Include" />
+                <e p="J - Copas.png" t="Include" />
+                <e p="J - Espadilha.png" t="Include" />
+                <e p="J - Picafumo.png" t="Include" />
+                <e p="J - Zapi.png" t="Include" />
+                <e p="K - Copas.png" t="Include" />
+                <e p="K - Espadilha.png" t="Include" />
+                <e p="K - Picafumo.png" t="Include" />
+                <e p="K - Zapi.png" t="Include" />
+                <e p="Q - Copas.png" t="Include" />
+                <e p="Q - Espadilha.png" t="Include" />
+                <e p="Q - Picafumo.png" t="Include" />
+                <e p="Q - Zapi.png" t="Include" />
+                <e p="TodasAsCartas.png" t="Include" />
+              </e>
               <e p="banner1.svg" t="Include" />
               <e p="banner2.svg" t="Include" />
               <e p="banner3.svg" t="Include" />
               <e p="banner4.svg" t="Include" />
             </e>
             <e p="js" t="Include">
-              <e p="criacaoDeSala.js" t="Include" />
+              <e p="partida.js" t="Include" />
               <e p="site.js" t="Include" />
               <e p="site.min.js" t="Include" />
             </e>
@@ -245,10 +310,18 @@
       <e p="test" t="Include">
         <e p="TrucaPato.DominioTeste" t="IncludeRecursive">
           <e p="Jogo" t="Include">
-            <e p="Salas" t="Include">
-              <e p="CriadorDeSalaTeste.cs" t="Include" />
-              <e p="SalaTeste.cs" t="Include" />
+            <e p="Cartas" t="Include">
+              <e p="CartaTeste.cs" t="Include" />
+              <e p="ManilhaTeste.cs" t="Include" />
+              <e p="TodasAsCartasTeste.cs" t="Include" />
             </e>
+            <e p="GerenciadorDePartidaTeste.cs" t="Include" />
+            <e p="Jogadores" t="Include">
+              <e p="CartasDoJogadorTeste.cs" t="Include" />
+              <e p="JogadorTeste.cs" t="Include" />
+            </e>
+            <e p="PartidaTeste.cs" t="Include" />
+            <e p="RodadaTeste.cs" t="Include" />
           </e>
           <e p="TrucaPato.DominioTeste.csproj" t="IncludeRecursive" />
           <e p="bin" t="ExcludeRecursive" />

@@ -2,80 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82e5888b-0e6f-4934-b542-5e6722782dc0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dado.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dado.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dado.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dado.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dominio.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dominio.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dominio.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dominio.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/Debug/netstandard2.0/TrucaPato.Dado.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/Debug/netstandard2.0/TrucaPato.Dado.csproj.CoreCompileInputs.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/Debug/netstandard2.0/TrucaPato.Dado.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/Debug/netstandard2.0/TrucaPato.Dado.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/Debug/netstandard2.0/TrucaPato.Dado.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/Debug/netstandard2.0/TrucaPato.Dado.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/TrucaPato.Dado.csproj.nuget.cache" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/TrucaPato.Dado.csproj.nuget.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dado.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dado.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dado.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dado.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Di.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Di.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Di.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Di.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dominio.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dominio.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dominio.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dominio.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/obj/Debug/netstandard2.0/TrucaPato.Di.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/obj/Debug/netstandard2.0/TrucaPato.Di.csproj.CoreCompileInputs.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/obj/Debug/netstandard2.0/TrucaPato.Di.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/obj/Debug/netstandard2.0/TrucaPato.Di.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/obj/Debug/netstandard2.0/TrucaPato.Di.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/obj/Debug/netstandard2.0/TrucaPato.Di.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/obj/TrucaPato.Di.csproj.nuget.cache" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/obj/TrucaPato.Di.csproj.nuget.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/bin/Debug/netstandard2.0/TrucaPato.Dominio.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/bin/Debug/netstandard2.0/TrucaPato.Dominio.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/bin/Debug/netstandard2.0/TrucaPato.Dominio.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/bin/Debug/netstandard2.0/TrucaPato.Dominio.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/Debug/netstandard2.0/TrucaPato.Dominio.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/Debug/netstandard2.0/TrucaPato.Dominio.csproj.CoreCompileInputs.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/Debug/netstandard2.0/TrucaPato.Dominio.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/Debug/netstandard2.0/TrucaPato.Dominio.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/Debug/netstandard2.0/TrucaPato.Dominio.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/Debug/netstandard2.0/TrucaPato.Dominio.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/TrucaPato.Dominio.csproj.nuget.cache" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/TrucaPato.Dominio.csproj.nuget.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dado.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dado.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dado.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dado.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Di.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Di.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Di.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Di.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Web.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Web.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Web.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Web.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/Controllers/PartidaController.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/IPartidaRepositorio.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/GerenciadorDePartida.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/GerenciadorDePartidaTeste.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/Repositorio/PartidaRepositorio.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/PartidaTeste.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/Views/Home/Partida.cshtml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/Views/Home/About.cshtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/Controllers/SalaController.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Salas/CriadorDeSalaTeste.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/Repositorio/SalaRepositorio.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/wwwroot/js/criacaoDeSala.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Salas/CriadorDeSala.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Salas/SalaTeste.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Salas/ISalaRepositorio.cs" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/obj/Debug/netcoreapp2.0/TrucaPato.Web.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/obj/Debug/netcoreapp2.0/TrucaPato.Web.csproj.CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Di.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Di.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/obj/Debug/netcoreapp2.0/TrucaPato.Web.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/obj/Debug/netcoreapp2.0/TrucaPato.Web.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/obj/Debug/netcoreapp2.0/TrucaPato.Web.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/obj/Debug/netcoreapp2.0/TrucaPato.Web.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/obj/TrucaPato.Web.csproj.nuget.cache" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/obj/TrucaPato.Web.csproj.nuget.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.dll" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.pdb" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.DominioTeste.dll" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.DominioTeste.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.DominioTeste.pdb" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.DominioTeste.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/Debug/netcoreapp2.0/TrucaPato.DominioTeste.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/Debug/netcoreapp2.0/TrucaPato.DominioTeste.csproj.CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dado.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dado.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/obj/Debug/netstandard2.0/TrucaPato.Di.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/obj/Debug/netstandard2.0/TrucaPato.Di.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/Hubs/TrucaPatoHub.cs" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/Hubs/TrucaPatoHub.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dado.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dado.dll" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Salas/Sala.cs" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Partida.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/Debug/netstandard2.0/TrucaPato.Dominio.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/Debug/netstandard2.0/TrucaPato.Dominio.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/Views/Home/Index.cshtml" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/Views/Home/Index.cshtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/Debug/netstandard2.0/TrucaPato.Dominio.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/Debug/netstandard2.0/TrucaPato.Dominio.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/Debug/netcoreapp2.0/TrucaPato.DominioTeste.dll" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/Debug/netcoreapp2.0/TrucaPato.DominioTeste.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/Debug/netcoreapp2.0/TrucaPato.DominioTeste.pdb" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/Debug/netcoreapp2.0/TrucaPato.DominioTeste.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/TrucaPato.DominioTeste.csproj.nuget.cache" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/TrucaPato.DominioTeste.csproj.nuget.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dado.deps.json" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dado.deps.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/Debug/netstandard2.0/TrucaPato.Dado.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/Debug/netstandard2.0/TrucaPato.Dado.csproj.FileListAbsolute.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/TrucaPato.Dado.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/TrucaPato.Dado.csproj.nuget.g.props" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/TrucaPato.Dado.csproj.nuget.g.targets" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/TrucaPato.Dado.csproj.nuget.g.targets" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/project.assets.json" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/project.assets.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Di.deps.json" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Di.deps.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/obj/Debug/netstandard2.0/TrucaPato.Di.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/obj/Debug/netstandard2.0/TrucaPato.Di.csproj.FileListAbsolute.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/obj/TrucaPato.Di.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/obj/TrucaPato.Di.csproj.nuget.g.props" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/obj/TrucaPato.Di.csproj.nuget.g.targets" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/obj/TrucaPato.Di.csproj.nuget.g.targets" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/obj/project.assets.json" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/obj/project.assets.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/bin/Debug/netstandard2.0/TrucaPato.Dominio.deps.json" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/bin/Debug/netstandard2.0/TrucaPato.Dominio.deps.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/Debug/netstandard2.0/TrucaPato.Dominio.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/Debug/netstandard2.0/TrucaPato.Dominio.csproj.FileListAbsolute.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/TrucaPato.Dominio.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/TrucaPato.Dominio.csproj.nuget.g.props" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/TrucaPato.Dominio.csproj.nuget.g.targets" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/TrucaPato.Dominio.csproj.nuget.g.targets" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/project.assets.json" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/project.assets.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/appsettings.json" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/appsettings.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Web.deps.json" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Web.deps.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Web.runtimeconfig.dev.json" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Web.runtimeconfig.dev.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/obj/Debug/netcoreapp2.0/TrucaPato.Web.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/obj/Debug/netcoreapp2.0/TrucaPato.Web.csproj.FileListAbsolute.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/obj/TrucaPato.Web.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/obj/TrucaPato.Web.csproj.nuget.g.props" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/obj/TrucaPato.Web.csproj.nuget.g.targets" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/obj/TrucaPato.Web.csproj.nuget.g.targets" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/obj/project.assets.json" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/obj/project.assets.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/package.json" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.DominioTeste.deps.json" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.DominioTeste.deps.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/Debug/netstandard2.0/TrucaPato.Dado.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/Debug/netstandard2.0/TrucaPato.Dado.csproj.CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Web.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Web.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dominio.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dominio.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/Debug/netcoreapp2.0/TrucaPato.DominioTeste.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/Debug/netcoreapp2.0/TrucaPato.DominioTeste.csproj.CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.TrucaPato/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.TrucaPato/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dado.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dado.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/bin/Debug/netstandard2.0/TrucaPato.Dominio.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/bin/Debug/netstandard2.0/TrucaPato.Dominio.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Web.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Web.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dado.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dado.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.DominioTeste.runtimeconfig.dev.json" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.DominioTeste.runtimeconfig.dev.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/Debug/netcoreapp2.0/TrucaPato.DominioTeste.Program.cs" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/Debug/netcoreapp2.0/TrucaPato.DominioTeste.Program.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/Debug/netcoreapp2.0/TrucaPato.DominioTeste.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/Debug/netcoreapp2.0/TrucaPato.DominioTeste.csproj.FileListAbsolute.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/TrucaPato.DominioTeste.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/TrucaPato.DominioTeste.csproj.nuget.g.props" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/TrucaPato.DominioTeste.csproj.nuget.g.targets" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/TrucaPato.DominioTeste.csproj.nuget.g.targets" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/project.assets.json" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/project.assets.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/Debug/netstandard2.0/TrucaPato.Dado.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/Debug/netstandard2.0/TrucaPato.Dado.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dominio.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dominio.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/Debug/netstandard2.0/TrucaPato.Dado.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/Debug/netstandard2.0/TrucaPato.Dado.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.TrucaPato/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.TrucaPato/.idea/contentModel.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.dll" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/ConfiguradorDeServicos.cs" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/ConfiguradorDeServicos.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/TrucaPato.Dominio.csproj" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/TrucaPato.Dominio.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.pdb" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/Debug/netstandard2.0/TrucaPato.Dominio.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/Debug/netstandard2.0/TrucaPato.Dominio.csproj.CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/bin/Debug/netstandard2.0/TrucaPato.Dominio.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/bin/Debug/netstandard2.0/TrucaPato.Dominio.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/TrucaPato.DominioTeste.csproj" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/TrucaPato.DominioTeste.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/Controllers/HomeController.cs" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/Controllers/HomeController.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/obj/Debug/netstandard2.0/TrucaPato.Di.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/obj/Debug/netstandard2.0/TrucaPato.Di.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dominio.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dominio.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dado.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dado.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/Debug/netcoreapp2.0/TrucaPato.DominioTeste.pdb" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/Debug/netcoreapp2.0/TrucaPato.DominioTeste.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/obj/Debug/netcoreapp2.0/TrucaPato.Web.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/obj/Debug/netcoreapp2.0/TrucaPato.Web.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.DominioTeste.dll" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.DominioTeste.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Di.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Di.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Di.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Di.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Di.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Di.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dado.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dado.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/TrucaPato.Web.csproj" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/TrucaPato.Web.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.DominioTeste.pdb" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.DominioTeste.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dominio.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dominio.dll" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -84,40 +74,102 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="appsettings.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TrucaPato.Web/appsettings.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-              <folding>
-                <marker date="1507825619640" expanded="true" signature="25:195" ph="{...}" />
-                <marker date="1507825619640" expanded="true" signature="210:294" ph="{...}" />
-                <marker date="1507825619640" expanded="true" signature="256:290" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sala</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Web/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Jogadores/Jogador.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Partida.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Cartas/ManilhaTeste.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/GerenciadorDePartida.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/IPartidaRepositorio.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Cartas/Manilha.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Cartas/CartaTeste.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/TrucaPato.Di/obj/project.assets.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Dado/Migrations/20171009171335_CriacaoDeUsuario.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Web/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Cartas/Carta.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Web/Views/Home/Partida.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Cartas/TodasAsCartasTeste.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Jogadores/Equipe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Jogadores/CartasDoJogadorTeste.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Jogadores/CartasDoJogador.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Rodada.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/GerenciadorDePartidaTeste.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Web/Models/GerenteDeConexaoDeHub.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/PartidaTeste.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Web/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Web/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Web/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/TrucaPato.Web/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/TrucaPato.Web/Views/Account/ExternalLogin.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/TrucaPato.Web/package.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Dado/Migrations/20171009171335_CriacaoDeUsuario.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Dado/Repositorio/PartidaRepositorio.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Web/Controllers/PartidaController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Di/ConfiguradorDeServicos.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Web/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Cartas/TodasAsCartas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/RodadaTeste.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Web/Hubs/TrucaPatoHub.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Jogadores/JogadorTeste.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/TrucaPato.Web/package.json" />
         <option value="$PROJECT_DIR$/src/TrucaPato.Web/appsettings.json" />
+        <option value="$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Salas/CriadorDeSalaTeste.cs" />
+        <option value="$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Salas/SalaTeste.cs" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Web/Views/Home/Sala.cshtml" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Salas/ISalaRepositorio.cs" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Dado/Repositorio/SalaRepositorio.cs" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Web/Controllers/SalaController.cs" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Web/wwwroot/js/sala.js" />
+        <option value="$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Salas/GerenciadorDeSalaTeste.cs" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Salas/Sala.cs" />
+        <option value="$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Cartas/ManilhaTeste.cs" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Cartas/Manilha.cs" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Cartas/Carta.cs" />
+        <option value="$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Cartas/CartaTeste.cs" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Salas/GerenciadorDeSala.cs" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/IPartidaRepositorio.cs" />
+        <option value="$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Salas/GerenciadorDePartidaTeste.cs" />
+        <option value="$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Salas/PartidaTeste.cs" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Web/Controllers/PartidaController.cs" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Web/wwwroot/js/criacaoDeSala.js" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Web/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Web/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Cartas/GerenciadorDeCartasTeste.cs" />
+        <option value="$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Cartas/TodasAsCartasTeste.cs" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/GerenciadorDePartida.cs" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Dado/Repositorio/PartidaRepositorio.cs" />
+        <option value="$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/GerenciadorDePartidaTeste.cs" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Jogadores/Equipe.cs" />
+        <option value="$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Jogadores/JogadorTeste.cs" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Jogadores/Jogador.cs" />
+        <option value="$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Jogadores/CartasDoJogadorTeste.cs" />
+        <option value="$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/PartidaTeste.cs" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Rodada.cs" />
+        <option value="$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/RodadaTeste.cs" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Partida.cs" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Jogadores/CartasDoJogador.cs" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Web/Views/Home/Partida.cshtml" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Web/Models/GerenteDeConexaoDeHub.cs" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Web/Hubs/TrucaPatoHub.cs" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Web/wwwroot/js/partida.js" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Cartas/TodasAsCartas.cs" />
       </list>
     </option>
   </component>
@@ -129,7 +181,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/src/TrucaPato.Web/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1920" />
     <option name="width" value="2560" />
     <option name="height" value="1080" />
@@ -173,6 +228,38 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="TrucaPato (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TrucaPato.Web" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TrucaPato (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TrucaPato.Web" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="images" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TrucaPato (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TrucaPato.Web" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="images" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Cartas" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TrucaPato (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TrucaPato.Web" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="js" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TrucaPato (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="test" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
@@ -202,16 +289,22 @@
   </component>
   <component name="RunManager" selected=".NET Project.Default">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="PROJECT_PATH" value="" />
-      <option name="PROJECT_KIND" value="None" />
-      <option name="PROJECT_TFM" value="" />
-      <option name="EXE_PATH" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/src/TrucaPato.Web/TrucaPato.Web.csproj" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Web.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <envs />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Production" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -223,12 +316,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1507824501676</updated>
-      <workItem from="1507824505938" duration="1417000" />
+      <workItem from="1507824505938" duration="15550000" />
+      <workItem from="1507921553140" duration="10162000" />
+      <workItem from="1507999066854" duration="1229000" />
+      <workItem from="1508001121069" duration="8276000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1417000" />
+    <option name="totallyTimeSpent" value="35217000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -240,31 +336,33 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="0" width="2560" height="1080" extended-state="6" />
+    <frame x="1920" y="0" width="2560" height="1080" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32864866" sideWeight="0.496875" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39891893" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32864866" sideWeight="0.503125" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,88 +372,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Web/Views/Account/ExternalLogin.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="15" lean-forward="false" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
-          <folding>
-            <marker date="1507824414698" expanded="true" signature="30:70" ph="@..." />
-            <marker date="1507824414698" expanded="true" signature="168:392" ph="&lt;p.../&gt;" />
-            <marker date="1507824414698" expanded="true" signature="394:978" ph="&lt;div.../&gt;" />
-            <marker date="1507824414698" expanded="true" signature="416:971" ph="&lt;div.../&gt;" />
-            <marker date="1507824414698" expanded="true" signature="447:960" ph="&lt;form.../&gt;" />
-            <marker date="1507824414698" expanded="true" signature="637:868" ph="&lt;div.../&gt;" />
-            <marker date="1507824414698" expanded="true" signature="980:1058" ph="@{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Dado/Migrations/20171009171335_CriacaoDeUsuario.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding>
-            <marker date="1507824414691" expanded="false" signature="6:141" ph="..." />
-            <marker date="1507824414691" expanded="true" signature="178:10266" ph="{...}" />
-            <marker date="1507824414691" expanded="true" signature="234:10264" ph="{...}" />
-            <marker date="1507824414691" expanded="true" signature="310:9589" ph="{...}" />
-            <marker date="1507824414691" expanded="true" signature="454:877" ph="{...}" />
-            <marker date="1507824414691" expanded="true" signature="916:1019" ph="{...}" />
-            <marker date="1507824414691" expanded="true" signature="1156:2643" ph="{...}" />
-            <marker date="1507824414691" expanded="true" signature="2682:2785" ph="{...}" />
-            <marker date="1507824414691" expanded="true" signature="2927:3419" ph="{...}" />
-            <marker date="1507824414691" expanded="true" signature="3458:3887" ph="{...}" />
-            <marker date="1507824414691" expanded="true" signature="4029:4521" ph="{...}" />
-            <marker date="1507824414691" expanded="true" signature="4560:4989" ph="{...}" />
-            <marker date="1507824414691" expanded="true" signature="5131:5537" ph="{...}" />
-            <marker date="1507824414691" expanded="true" signature="5576:6039" ph="{...}" />
-            <marker date="1507824414691" expanded="true" signature="6180:6380" ph="{...}" />
-            <marker date="1507824414691" expanded="true" signature="6419:7188" ph="{...}" />
-            <marker date="1507824414691" expanded="true" signature="7330:7715" ph="{...}" />
-            <marker date="1507824414691" expanded="true" signature="7754:8220" ph="{...}" />
-            <marker date="1507824414691" expanded="true" signature="9662:10258" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Web/appsettings.Development.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1507824414698" expanded="true" signature="15:162" ph="{...}" />
-            <marker date="1507824414698" expanded="true" signature="61:158" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Web/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding>
-            <marker date="1507825388338" expanded="true" signature="0:967" ph="{...}" />
-            <marker date="1507825388338" expanded="true" signature="103:852" ph="{...}" />
-            <marker date="1507825388338" expanded="true" signature="908:965" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Web/appsettings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-          <folding>
-            <marker date="1507825619640" expanded="true" signature="25:195" ph="{...}" />
-            <marker date="1507825619640" expanded="true" signature="210:294" ph="{...}" />
-            <marker date="1507825619640" expanded="true" signature="256:290" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <breakpoint-manager>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="DotNetProject">
+        <watch expression="GerenteDeConexaoDeHub.ObterConexaoDoUsuario(cartasDoJogador.NomeDoJogador)" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

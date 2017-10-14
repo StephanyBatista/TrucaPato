@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using TrucaPato.Dominio.Jogo;
 using TrucaPato.Web.Models;
 
 namespace TrucaPato.Web.Controllers
@@ -12,16 +13,21 @@ namespace TrucaPato.Web.Controllers
     [Authorize]
     public class HomeController : Controller
     {
+        private readonly IPartidaRepositorio _partidaRepositorio;
+
+        public HomeController(IPartidaRepositorio partidaRepositorio)
+        {
+            _partidaRepositorio = partidaRepositorio;
+        }
+        
         public IActionResult Index()
         {
             return View();
         }
 
-        public IActionResult About()
+        public IActionResult Partida()
         {
-            ViewData["Message"] = "Your application description page.";
-
-            return View();
+            return View("Partida", User.Identity.Name);
         }
 
         public IActionResult Contact()
