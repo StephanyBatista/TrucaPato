@@ -1,4 +1,5 @@
 let _nomeDoUsuario;
+let _minhaEquipe;
 
 $(function(){
 
@@ -14,6 +15,7 @@ $(function(){
 function configurarUsuario(nomeDoUsuario) {
     
     _nomeDoUsuario = nomeDoUsuario;
+    $('#eu').text(_nomeDoUsuario);
 
     let connection = new signalR.HubConnection('/trucaPatoHub');
 
@@ -27,6 +29,11 @@ function configurarUsuario(nomeDoUsuario) {
         minhasCartas(cartas);
     });
 
+    connection.on('cartaDaRodada', function(carta) {
+
+        cartaDaRodada(carta);
+    });
+
     connection
         .start()
         .then(function(){ 
@@ -36,15 +43,40 @@ function configurarUsuario(nomeDoUsuario) {
 
 function jogadoresDaPartida(jogadores){
     
-    $('#lista-de-usuarios li').remove();
+    limparMesa();
     
     jogadores.forEach(function (jogador) {
 
-        $('#lista-de-usuarios').append('<li>'+jogador.Nome+'</li>');
+        if (jogador.Nome == _nomeDoUsuario)
+            _minhaEquipe = jogador.Equipe;
+    });
+
+    jogadores.forEach(function (jogador) {
+
+        if (jogador.Nome != _nomeDoUsuario){
+
+            if (jogador.Equipe == _minhaEquipe)
+                $('#meu-parceiro').text(jogador.Nome);
+
+            else if (!$('#opnente-1').text())
+                $('#opnente-1').text(jogador.Nome);
+
+            else if (!$('#opnente-2').text())
+                $('#opnente-2').text(jogador.Nome);
+        }
     });
 }
 
+function limparMesa() {
+
+    $('#meu-parceiro').text('');
+    $('#opnente-1').text('');
+    $('#opnente-2').text('');
+}
+
 function minhasCartas(cartas){
+
+    $('#minhas-cartas img').remove();
     
     cartas.forEach(function (carta) {
 
@@ -52,4 +84,9 @@ function minhasCartas(cartas){
             .append('<img src="/images/Cartas/' + carta.Nome + ' - ' + carta.Manilha.Nome + '.png"/>');
     });
     
+}
+
+function cartaDaRodada(carta) {
+    
+    $('#carta-da-rodada').attr('src', '/images/Cartas/' + carta.Nome + ' - ' + carta.Manilha.Nome + '.png');
 }

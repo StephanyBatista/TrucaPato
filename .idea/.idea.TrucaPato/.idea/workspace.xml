@@ -2,70 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82e5888b-0e6f-4934-b542-5e6722782dc0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/Controllers/PartidaController.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/IPartidaRepositorio.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/GerenciadorDePartida.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/GerenciadorDePartidaTeste.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/Repositorio/PartidaRepositorio.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/PartidaTeste.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/Views/Home/Partida.cshtml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/Views/Home/About.cshtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/Controllers/SalaController.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Salas/CriadorDeSalaTeste.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/Repositorio/SalaRepositorio.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/wwwroot/js/criacaoDeSala.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Salas/CriadorDeSala.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Salas/SalaTeste.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Salas/ISalaRepositorio.cs" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/obj/Debug/netcoreapp2.0/TrucaPato.Web.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/obj/Debug/netcoreapp2.0/TrucaPato.Web.csproj.CoreCompileInputs.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Di.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Di.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/obj/Debug/netcoreapp2.0/TrucaPato.Web.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/obj/Debug/netcoreapp2.0/TrucaPato.Web.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dado.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dado.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/obj/Debug/netstandard2.0/TrucaPato.Di.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/obj/Debug/netstandard2.0/TrucaPato.Di.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/Hubs/TrucaPatoHub.cs" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/Hubs/TrucaPatoHub.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dado.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dado.dll" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Salas/Sala.cs" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Partida.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/Debug/netstandard2.0/TrucaPato.Dominio.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/Debug/netstandard2.0/TrucaPato.Dominio.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/Views/Home/Index.cshtml" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/Views/Home/Index.cshtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/Debug/netstandard2.0/TrucaPato.Dominio.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/Debug/netstandard2.0/TrucaPato.Dominio.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/Debug/netcoreapp2.0/TrucaPato.DominioTeste.dll" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/Debug/netcoreapp2.0/TrucaPato.DominioTeste.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/Debug/netstandard2.0/TrucaPato.Dado.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/Debug/netstandard2.0/TrucaPato.Dado.csproj.CoreCompileInputs.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Web.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Web.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dominio.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dominio.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/Debug/netcoreapp2.0/TrucaPato.DominioTeste.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/Debug/netcoreapp2.0/TrucaPato.DominioTeste.csproj.CoreCompileInputs.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.TrucaPato/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.TrucaPato/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dado.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dado.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/bin/Debug/netstandard2.0/TrucaPato.Dominio.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/bin/Debug/netstandard2.0/TrucaPato.Dominio.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Web.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Web.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dado.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dado.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.DominioTeste.runtimeconfig.dev.json" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.DominioTeste.runtimeconfig.dev.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/Debug/netstandard2.0/TrucaPato.Dado.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/Debug/netstandard2.0/TrucaPato.Dado.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dominio.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dominio.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dominio.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dominio.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/Debug/netstandard2.0/TrucaPato.Dado.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/obj/Debug/netstandard2.0/TrucaPato.Dado.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.TrucaPato/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.TrucaPato/.idea/contentModel.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.dll" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/ConfiguradorDeServicos.cs" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/ConfiguradorDeServicos.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/TrucaPato.Dominio.csproj" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/TrucaPato.Dominio.csproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.pdb" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/Debug/netstandard2.0/TrucaPato.Dominio.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/Debug/netstandard2.0/TrucaPato.Dominio.csproj.CoreCompileInputs.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/bin/Debug/netstandard2.0/TrucaPato.Dominio.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/bin/Debug/netstandard2.0/TrucaPato.Dominio.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/TrucaPato.DominioTeste.csproj" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/TrucaPato.DominioTeste.csproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/Controllers/HomeController.cs" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/Controllers/HomeController.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/obj/Debug/netstandard2.0/TrucaPato.Di.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/obj/Debug/netstandard2.0/TrucaPato.Di.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dominio.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Dado/bin/Debug/netstandard2.0/TrucaPato.Dominio.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dado.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dado.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/Debug/netcoreapp2.0/TrucaPato.DominioTeste.pdb" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/Debug/netcoreapp2.0/TrucaPato.DominioTeste.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/obj/Debug/netcoreapp2.0/TrucaPato.Web.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/obj/Debug/netcoreapp2.0/TrucaPato.Web.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.DominioTeste.dll" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.DominioTeste.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Di.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Di.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Di.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Di.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Di.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Di.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dado.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dado.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/TrucaPato.Web.csproj" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/TrucaPato.Web.csproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.DominioTeste.pdb" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.DominioTeste.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dado.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dado.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dominio.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dominio.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dominio.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Di/bin/Debug/netstandard2.0/TrucaPato.Dominio.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/bin/Debug/netstandard2.0/TrucaPato.Dominio.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/bin/Debug/netstandard2.0/TrucaPato.Dominio.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/bin/Debug/netstandard2.0/TrucaPato.Dominio.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/bin/Debug/netstandard2.0/TrucaPato.Dominio.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/Debug/netstandard2.0/TrucaPato.Dominio.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/Debug/netstandard2.0/TrucaPato.Dominio.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/Debug/netstandard2.0/TrucaPato.Dominio.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/obj/Debug/netstandard2.0/TrucaPato.Dominio.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dado.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dado.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Web.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Web.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Web.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/bin/Debug/netcoreapp2.0/TrucaPato.Web.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/obj/Debug/netcoreapp2.0/TrucaPato.Web.dll" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/obj/Debug/netcoreapp2.0/TrucaPato.Web.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/obj/Debug/netcoreapp2.0/TrucaPato.Web.pdb" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/obj/Debug/netcoreapp2.0/TrucaPato.Web.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.dll" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.pdb" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.Dominio.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.DominioTeste.dll" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.DominioTeste.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.DominioTeste.pdb" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/bin/Debug/netcoreapp2.0/TrucaPato.DominioTeste.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/Debug/netcoreapp2.0/TrucaPato.DominioTeste.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/Debug/netcoreapp2.0/TrucaPato.DominioTeste.csproj.CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/Debug/netcoreapp2.0/TrucaPato.DominioTeste.dll" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/Debug/netcoreapp2.0/TrucaPato.DominioTeste.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/Debug/netcoreapp2.0/TrucaPato.DominioTeste.pdb" afterPath="$PROJECT_DIR$/test/TrucaPato.DominioTeste/obj/Debug/netcoreapp2.0/TrucaPato.DominioTeste.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.TrucaPato/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.TrucaPato/.idea/contentModel.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.TrucaPato/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.TrucaPato/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Partida.cs" afterPath="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Partida.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/Controllers/ManageController.cs" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/Controllers/ManageController.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/Hubs/TrucaPatoHub.cs" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/Hubs/TrucaPatoHub.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/Views/Home/Partida.cshtml" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/Views/Home/Partida.cshtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/Views/Manage/TwoFactorAuthentication.cshtml" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/Views/Manage/TwoFactorAuthentication.cshtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TrucaPato.Web/wwwroot/js/partida.js" afterPath="$PROJECT_DIR$/src/TrucaPato.Web/wwwroot/js/partida.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -73,6 +42,30 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="TrucaPatoHub.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TrucaPato.Web/Hubs/TrucaPatoHub.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="146">
+              <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+              <folding>
+                <marker date="1508033157651" expanded="false" signature="6:164" ph="..." />
+                <marker date="1508033157651" expanded="true" signature="194:2166" ph="{...}" />
+                <marker date="1508033157651" expanded="true" signature="232:2164" ph="{...}" />
+                <marker date="1508033157651" expanded="true" signature="487:619" ph="{...}" />
+                <marker date="1508033157651" expanded="true" signature="692:1710" ph="{...}" />
+                <marker date="1508033157651" expanded="true" signature="1117:1700" ph="{...}" />
+                <marker date="1508033157651" expanded="true" signature="1296:1552" ph="{...}" />
+                <marker date="1508033157651" expanded="true" signature="1781:2158" ph="{...}" />
+                <marker date="1508033157651" expanded="true" signature="1804:2079" ph="/* var partida = _partidaRepositorio.ObterPorNomeDoJogador(Context.User.Identity.Name); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -94,12 +87,14 @@
     <setting file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Partida.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Cartas/ManilhaTeste.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/GerenciadorDePartida.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/ParcialTeste.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/IPartidaRepositorio.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Cartas/Manilha.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Cartas/CartaTeste.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/TrucaPato.Di/obj/project.assets.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/TrucaPato.Web/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Cartas/Carta.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Parcial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/TrucaPato.Web/Views/Home/Partida.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Cartas/TodasAsCartasTeste.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Jogadores/Equipe.cs" root0="FORCE_HIGHLIGHTING" />
@@ -108,6 +103,7 @@
     <setting file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Rodada.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/GerenciadorDePartidaTeste.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/TrucaPato.Web/Models/GerenteDeConexaoDeHub.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Web/Views/Manage/TwoFactorAuthentication.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/PartidaTeste.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/TrucaPato.Web/appsettings.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/TrucaPato.Web/Startup.cs" root0="FORCE_HIGHLIGHTING" />
@@ -119,6 +115,7 @@
     <setting file="file://$PROJECT_DIR$/src/TrucaPato.Dado/Repositorio/PartidaRepositorio.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/TrucaPato.Web/Controllers/PartidaController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/TrucaPato.Di/ConfiguradorDeServicos.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TrucaPato.Web/Controllers/ManageController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/TrucaPato.Web/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Cartas/TodasAsCartas.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/RodadaTeste.cs" root0="FORCE_HIGHLIGHTING" />
@@ -163,13 +160,17 @@
         <option value="$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/PartidaTeste.cs" />
         <option value="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Rodada.cs" />
         <option value="$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/RodadaTeste.cs" />
-        <option value="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Partida.cs" />
         <option value="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Jogadores/CartasDoJogador.cs" />
-        <option value="$PROJECT_DIR$/src/TrucaPato.Web/Views/Home/Partida.cshtml" />
         <option value="$PROJECT_DIR$/src/TrucaPato.Web/Models/GerenteDeConexaoDeHub.cs" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Cartas/TodasAsCartas.cs" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Web/Views/Manage/TwoFactorAuthentication.cshtml" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Web/Controllers/ManageController.cs" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Web/Views/Home/Partida.cshtml" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Partida.cs" />
         <option value="$PROJECT_DIR$/src/TrucaPato.Web/Hubs/TrucaPatoHub.cs" />
         <option value="$PROJECT_DIR$/src/TrucaPato.Web/wwwroot/js/partida.js" />
-        <option value="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Cartas/TodasAsCartas.cs" />
+        <option value="$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/ParcialTeste.cs" />
+        <option value="$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Parcial.cs" />
       </list>
     </option>
   </component>
@@ -184,7 +185,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/src/TrucaPato.Web/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1920" />
     <option name="width" value="2560" />
     <option name="height" value="1080" />
@@ -223,44 +224,32 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="TrucaPato (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="TrucaPato.Web" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TrucaPato.Dominio" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="TrucaPato (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="TrucaPato.Web" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="TrucaPato (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="TrucaPato.Web" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="images" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="TrucaPato (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="TrucaPato.Web" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="images" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Cartas" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="TrucaPato (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="TrucaPato.Web" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="js" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TrucaPato.Dominio" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Jogo" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="TrucaPato (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="test" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TrucaPato (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="test" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TrucaPato.DominioTeste" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TrucaPato (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="test" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TrucaPato.DominioTeste" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Jogo" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -320,11 +309,17 @@
       <workItem from="1507921553140" duration="10162000" />
       <workItem from="1507999066854" duration="1229000" />
       <workItem from="1508001121069" duration="8276000" />
+      <workItem from="1508015003715" duration="659000" />
+      <workItem from="1508016011563" duration="191000" />
+      <workItem from="1508016247135" duration="60000" />
+      <workItem from="1508016553176" duration="586000" />
+      <workItem from="1508030707356" duration="3839000" />
+      <workItem from="1508068102113" duration="12494000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35217000" />
+    <option name="totallyTimeSpent" value="53046000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -336,32 +331,32 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="0" width="2560" height="1080" extended-state="7" />
+    <frame x="1920" y="0" width="2560" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32864866" sideWeight="0.496875" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="top" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="true" show_stripe_button="true" weight="0.32864866" sideWeight="0.496875" order="0" side_tool="false" content_ui="combo" x="2293" y="154" width="1674" height="876" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.153125" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39891893" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39891893" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32864866" sideWeight="0.503125" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32864866" sideWeight="0.503125" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -373,12 +368,519 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="10" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/src/TrucaPato.Web/Hubs/TrucaPatoHub.cs</url>
+          <line>24</line>
+          <properties documentPath="$PROJECT_DIR$/src/TrucaPato.Web/Hubs/TrucaPatoHub.cs">
+            <startOffsets>
+              <startOffset value="810" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="881" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="12" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="DotNetProject">
         <watch expression="GerenteDeConexaoDeHub.ObterConexaoDoUsuario(cartasDoJogador.NomeDoJogador)" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/RodadaTeste.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="35" column="23" lean-forward="false" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Cartas/TodasAsCartas.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="72" column="34" lean-forward="false" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Jogadores/Jogador.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/GerenciadorDePartidaTeste.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="36" column="65" lean-forward="false" selection-start-line="36" selection-start-column="65" selection-end-line="36" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Cartas/ManilhaTeste.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Cartas/CartaTeste.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="8" lean-forward="false" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Cartas/Carta.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Cartas/Manilha.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Web/Hubs/TrucaPatoHub.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/GerenciadorDePartida.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Partida.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="37" column="41" lean-forward="false" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Cartas/TodasAsCartasTeste.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="51" lean-forward="true" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Web/Views/Account/ExternalLogin.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="15" lean-forward="false" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Dado/Migrations/20171009171335_CriacaoDeUsuario.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Web/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Web/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Web/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Web/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="694">
+          <caret line="69" column="27" lean-forward="false" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Web/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="65" column="57" lean-forward="false" selection-start-line="65" selection-start-column="45" selection-end-line="65" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Cartas/Manilha.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Cartas/ManilhaTeste.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Cartas/Carta.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Cartas/CartaTeste.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="39" column="8" lean-forward="false" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Di/ConfiguradorDeServicos.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/IPartidaRepositorio.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Web/Controllers/PartidaController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Web/wwwroot/js/criacaoDeSala.js" />
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Web/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Web/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Cartas/TodasAsCartasTeste.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Dado/Repositorio/PartidaRepositorio.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" column="99" lean-forward="false" selection-start-line="23" selection-start-column="99" selection-end-line="23" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/GerenciadorDePartidaTeste.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Jogadores/Jogador.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Jogadores/Equipe.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Jogadores/JogadorTeste.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/GerenciadorDePartida.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="28" column="45" lean-forward="false" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/Jogadores/CartasDoJogadorTeste.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/RodadaTeste.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/PartidaTeste.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="101" column="39" lean-forward="false" selection-start-line="101" selection-start-column="39" selection-end-line="101" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Jogadores/CartasDoJogador.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="52" lean-forward="false" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Web/Models/GerenteDeConexaoDeHub.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Cartas/TodasAsCartas.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Web/Views/Manage/TwoFactorAuthentication.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Web/Controllers/ManageController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="32" column="26" lean-forward="false" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+          <folding>
+            <marker date="1508016120690" expanded="false" signature="6:379" ph="..." />
+            <marker date="1508016120690" expanded="true" signature="416:18499" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="518:18497" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="1161:1373" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="1511:2099" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="1613:1755" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="1812:2055" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="2223:3540" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="2270:2334" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="2427:2569" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="2644:2971" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="2795:2957" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="3070:3416" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="3233:3402" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="3680:4459" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="3727:3791" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="3884:4026" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="4536:5104" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="4638:4780" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="4884:4974" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="5246:6168" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="5293:5357" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="5450:5592" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="5765:5878" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="6242:6810" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="6344:6486" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="6590:6683" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="6946:7749" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="6993:7057" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="7150:7292" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="7437:7547" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="7826:8604" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="7928:8070" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="8727:9281" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="9361:10439" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="9463:9605" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="9716:9880" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="9987:10145" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="10575:11331" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="10677:10819" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="10963:11123" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="11417:12029" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="11519:11661" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="11736:11985" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="12109:12599" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="12211:12353" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="12394:12543" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="12708:13409" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="12810:12952" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="13091:13240" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="13491:14321" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="13593:13735" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="13874:14055" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="14126:14277" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="14473:15587" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="14520:14584" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="14677:14819" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="15173:15326" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="15663:15736" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="15853:16422" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="15955:16097" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="16506:17322" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="16608:16750" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="16791:16964" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="17332:18491" ph="Helpers" />
+            <marker date="1508016120690" expanded="true" signature="17402:17574" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="17461:17564" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="17631:18170" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="17788:17943" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="18000:18102" ph="{...}" />
+            <marker date="1508016120690" expanded="true" signature="18249:18471" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Web/Views/Home/Partida.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="38" lean-forward="false" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="38" />
+          <folding>
+            <marker date="1508033001139" expanded="true" signature="14:53" ph="@..." />
+            <marker date="1508033001139" expanded="true" signature="83:200" ph="&lt;div.../&gt;" />
+            <marker date="1508033001139" expanded="true" signature="105:193" ph="&lt;div.../&gt;" />
+            <marker date="1508033001139" expanded="true" signature="202:500" ph="&lt;div.../&gt;" />
+            <marker date="1508033001139" expanded="true" signature="224:308" ph="&lt;div.../&gt;" />
+            <marker date="1508033001139" expanded="true" signature="318:399" ph="&lt;div.../&gt;" />
+            <marker date="1508033001139" expanded="true" signature="409:493" ph="&lt;div.../&gt;" />
+            <marker date="1508033001139" expanded="true" signature="502:648" ph="&lt;div.../&gt;" />
+            <marker date="1508033001139" expanded="true" signature="524:641" ph="&lt;div.../&gt;" />
+            <marker date="1508033001139" expanded="true" signature="651:887" ph="@{...}" />
+            <marker date="1508033001139" expanded="true" signature="803:885" ph="&lt;script.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Web/wwwroot/js/partida.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Rodada.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <marker date="1508010128383" expanded="false" signature="6:129" ph="..." />
+            <marker date="1508010128383" expanded="true" signature="163:779" ph="{...}" />
+            <marker date="1508010128383" expanded="true" signature="189:777" ph="{...}" />
+            <marker date="1508010128383" expanded="true" signature="387:771" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TrucaPato.DominioTeste/Jogo/ParcialTeste.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="37" column="8" lean-forward="false" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+          <folding>
+            <marker date="1508102446054" expanded="true" signature="6:274" ph="..." />
+            <marker date="1508102446054" expanded="true" signature="313:3082" ph="{...}" />
+            <marker date="1508102446054" expanded="true" signature="361:3080" ph="{...}" />
+            <marker date="1508102446054" expanded="true" signature="497:880" ph="{...}" />
+            <marker date="1508102446054" expanded="true" signature="563:808" ph="{...}" />
+            <marker date="1508102446054" expanded="true" signature="949:1030" ph="{...}" />
+            <marker date="1508102446054" expanded="true" signature="1121:1220" ph="{...}" />
+            <marker date="1508102446054" expanded="true" signature="1438:1809" ph="{...}" />
+            <marker date="1508102446054" expanded="true" signature="1903:1975" ph="{...}" />
+            <marker date="1508102446054" expanded="true" signature="2077:2326" ph="{...}" />
+            <marker date="1508102446054" expanded="true" signature="2400:2651" ph="{...}" />
+            <marker date="1508102446054" expanded="true" signature="2733:3074" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Parcial.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <marker date="1508102446034" expanded="true" signature="6:160" ph="..." />
+            <marker date="1508102446034" expanded="true" signature="194:1256" ph="{...}" />
+            <marker date="1508102446034" expanded="true" signature="221:1254" ph="{...}" />
+            <marker date="1508102446034" expanded="true" signature="457:560" ph="{...}" />
+            <marker date="1508102446034" expanded="true" signature="605:810" ph="{...}" />
+            <marker date="1508102446034" expanded="true" signature="872:1067" ph="{...}" />
+            <marker date="1508102446034" expanded="true" signature="1103:1248" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Dominio/Jogo/Partida.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="56" column="9" lean-forward="true" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+          <folding>
+            <marker date="1508033128606" expanded="false" signature="6:212" ph="..." />
+            <marker date="1508033128606" expanded="true" signature="246:2012" ph="{...}" />
+            <marker date="1508033128606" expanded="true" signature="273:2010" ph="{...}" />
+            <marker date="1508033128606" expanded="true" signature="754:852" ph="{...}" />
+            <marker date="1508033128606" expanded="true" signature="912:1243" ph="{...}" />
+            <marker date="1508033128606" expanded="true" signature="1295:1541" ph="{...}" />
+            <marker date="1508033128606" expanded="true" signature="1596:1679" ph="{...}" />
+            <marker date="1508033128606" expanded="true" signature="1721:1804" ph="{...}" />
+            <marker date="1508033128606" expanded="true" signature="1842:1898" ph="{...}" />
+            <marker date="1508033128606" expanded="true" signature="1935:2004" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrucaPato.Web/Hubs/TrucaPatoHub.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <marker date="1508033157651" expanded="false" signature="6:164" ph="..." />
+            <marker date="1508033157651" expanded="true" signature="194:2166" ph="{...}" />
+            <marker date="1508033157651" expanded="true" signature="232:2164" ph="{...}" />
+            <marker date="1508033157651" expanded="true" signature="487:619" ph="{...}" />
+            <marker date="1508033157651" expanded="true" signature="692:1710" ph="{...}" />
+            <marker date="1508033157651" expanded="true" signature="1117:1700" ph="{...}" />
+            <marker date="1508033157651" expanded="true" signature="1296:1552" ph="{...}" />
+            <marker date="1508033157651" expanded="true" signature="1781:2158" ph="{...}" />
+            <marker date="1508033157651" expanded="true" signature="1804:2079" ph="/* var partida = _partidaRepositorio.ObterPorNomeDoJogador(Context.User.Identity.Name); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

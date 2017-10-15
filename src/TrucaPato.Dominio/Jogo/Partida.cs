@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
+using TrucaPato.Dominio.Jogo.Cartas;
 using TrucaPato.Dominio.Jogo.Jogadores;
 using TrucaPato.Dominio._Base;
 
@@ -14,6 +15,7 @@ namespace TrucaPato.Dominio.Jogo
         public List<Jogador> Jogadores { get; private set; }
         public Rodada RodadaAtual { get; private set; }
         public IEnumerable<CartasDoJogador> AtualCartasDosJogadores => RodadaAtual.CartasDosJogadores;
+        public Carta AtualCartaDaRodada => RodadaAtual.CartaDaRodada;
 
         private const int NumeroMaximoDeJogadores = 4;
 

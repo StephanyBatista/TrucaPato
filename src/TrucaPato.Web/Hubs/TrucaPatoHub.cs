@@ -37,6 +37,8 @@ namespace TrucaPato.Web.Hubs
                         .Client(GerenteDeConexaoDeHub.ObterConexaoDoUsuario(cartasDoJogador.NomeDoJogador))
                         .InvokeAsync("MinhasCartas", cartasDoJogador.Cartas);
                 }
+                
+                await Clients.Group(partida.Id.ToString()).InvokeAsync("CartaDaRodada", partida.AtualCartaDaRodada);
             }
         }
 

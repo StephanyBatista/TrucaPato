@@ -57,6 +57,7 @@
               <e p="Equipe.cs" t="Include" />
               <e p="Jogador.cs" t="Include" />
             </e>
+            <e p="Parcial.cs" t="Include" />
             <e p="Partida.cs" t="Include" />
             <e p="Rodada.cs" t="Include" />
           </e>
@@ -320,6 +321,7 @@
               <e p="CartasDoJogadorTeste.cs" t="Include" />
               <e p="JogadorTeste.cs" t="Include" />
             </e>
+            <e p="ParcialTeste.cs" t="Include" />
             <e p="PartidaTeste.cs" t="Include" />
             <e p="RodadaTeste.cs" t="Include" />
           </e>
